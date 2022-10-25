@@ -96,7 +96,7 @@ adicionar e a interface deve mostrar o _resumo do pedido_ com o custo total.
 
 ![out](https://user-images.githubusercontent.com/110297/45984241-b8b51c00-c025-11e8-8fa4-a390016bee9d.gif)
 
-Além disso a cliente nos deu um [link da documentação](https://lab-api-bq.herokuapp.com/api-docs/)
+Além disso a cliente nos deu um [link da documentação]( https://lab-api-bq.up.railway.app/api-docs/)
 que especifica o comportamento esperado da API que iremos expor por HTTP.
 Lá podemos encontrar todos os detalhes dos _endpoints_, como por exemplo
 que parâmetros esperam, o que devem responder, etc.
@@ -475,6 +475,12 @@ Web App, Accessibility e Best Practices do [Lighthouse](https://developers.googl
 4. Veja o video de configuração inicial para você poder começar com o _front-end_ :wink:. 
 
 ***
+
+5. Material complementar:
+
+* [React] (https://drive.google.com/file/d/1ccjcTnlT0re7HHjCPhos2VHrQVqdaZvx/view?usp=sharing)
+* [API] (https://www.youtube.com/watch?v=BTWPioWSoEQ)
+
 
 ### Frameworks / bibliotecas
 
