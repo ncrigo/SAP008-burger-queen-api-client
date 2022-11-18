@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@200;300;400;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "gothic-a1", sans-serif;
+  font-size: 1rem;
+  background-color: #000;
+  align-items: center;
+}
+
+.register-header {
+  color: #f9c906;
+  font-weight: bold;
+  margin: 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.register-title {
+  color: #f9c906;
+  font-weight: bold;
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 5rem;
+}
+
+.register-main {
+  display: flex;
+  flex-direction: column;
+}
+
+.register-input, .register-select  {
+  background: #ffff;
+  height: 3rem;
+  width: 25rem;
+  margin-bottom: 1.5rem;
+  border: 0;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.register-select option {
+  background: #ffff;
+}
+
+.register-btn {
+  background: #f9c906;
+  font-weight: bold;
+  font-size: 1.3rem;
+  height: 4rem;
+  width: 25rem;
+  margin-top: 3rem;
+  border: 0;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
