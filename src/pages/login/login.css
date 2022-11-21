@@ -49,3 +49,9 @@
   margin-top: 10rem;
   text-align: center;
 }
+
+.login-register-link {
+  color: #f9c906;
+  font-weight: bold;
+  text-decoration: underline;
+}
