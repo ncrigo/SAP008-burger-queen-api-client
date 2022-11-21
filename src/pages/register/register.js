@@ -1,12 +1,13 @@
 /* eslint-disable react/style-prop-object */
 import React from "react";
+import { Link } from 'react-router-dom';
 import "../register/register.css";
 
 const Register = () => {
   return (
     <div className="register-all">      
       <div className="register-header">
-        <h4>BotãoVoltar</h4>
+        <Link to='/login'><h4>BotãoVoltar</h4></Link>
         <h2>La Burger <br /> Queen</h2>
       </div>
 

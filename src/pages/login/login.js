@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "../login/login.css";
 
 const Login = () => {
@@ -13,8 +14,7 @@ const Login = () => {
         <button className="login-btn">LOGIN</button>
       </div>
       <div className="login-register">
-        <h2>Não tem acesso?</h2>
-        <h2>Cadastre-se</h2>
+        <h3>Não tem acesso? <Link to='/register' className="login-register-link">Cadastre-se</Link></h3>
       </div>
     </div>
   );

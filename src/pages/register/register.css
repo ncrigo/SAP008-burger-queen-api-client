@@ -18,6 +18,12 @@
   justify-content: space-between;
 }
 
+.register-header h4 {
+  color: #f9c906;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 .register-title {
   color: #f9c906;
   font-weight: bold;
