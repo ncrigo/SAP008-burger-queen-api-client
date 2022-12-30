@@ -40,5 +40,5 @@ Este projeto tem duas áreas: interface (cliente) e API (servidor). Nosso client
 
 • <b>Notion</b> para o planejamento/tasks (Metodologia SCRUM); <br>
 • <b>Figma</b> para o protótipo de alta fidelidade; <br>
-• <b>HTML, CSS e JavaScript</b> para o desenvolvimento; <br>
+• <b>HTML, CSS e React</b> para o desenvolvimento; <br>
 • 
