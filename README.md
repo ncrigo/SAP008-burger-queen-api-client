@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <b>Quarto projeto</b> desenvolvido no Bootcamp da Laboratoria <br>
+  por <b>Nathalia Rigo</b><br>
+  Status: Em desenvolvimento😉
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+## Índice
 
-### `npm start`
+* [1. Resumo do projeto](#2-resumo-do-projeto)
+* [2. Principais critérios para o desenvolvimento do projeto](#4-principais-critérios-para-o-desenvolvimento-do-projeto)
+* [3. Protótipo de Alta Fidelidade](#6-protótipo-de-alta-fidelidade)
+* - [3.1 - Paleta de cores](#61-paleta-de-cores)
+* [4. Ferramentas e tecnologias utilizadas](#7-ferramentas-e-tecnologias-utilizadas)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 1. Resumo do projeto
 
-### `npm test`
+Um pequeno restaurante de hambúrgueres, que está crescendo, necessita uma interface em que se possa realizar pedidos utilizando um tablet, e enviá-los para a cozinha para que sejam preparados de forma ordenada e eficiente.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este projeto tem duas áreas: interface (cliente) e API (servidor). Nosso cliente nos pediu para desenvolver uma interface que se integre com a API.
 
-### `npm run build`
+## 2. Principais critérios para o desenvolvimento do projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+• Construir a tela para uso no tablet;<br>
+• Usar React;<br>
+• Consumir a API <a href="https://lab-api-bq.onrender.com/api-docs/">Burger Queen API</a>.<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 3. Protótipo de Alta Fidelidade
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+• Tablet:
+<img src='./src/img/readme_prototipo_alta.png'><br>
 
-### `npm run eject`
+<!-- ### 3.1 Paleta de Cores
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img src='./src/img/readme_paletas.png'> -->
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 4. Ferramentas e tecnologias utilizadas
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+• <b>Notion</b> para o planejamento/tasks (Metodologia SCRUM); <br>
+• <b>Figma</b> para o protótipo de alta fidelidade; <br>
+• <b>HTML, CSS e JavaScript</b> para o desenvolvimento; <br>
+• 
